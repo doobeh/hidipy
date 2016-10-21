@@ -1,0 +1,5 @@
+"""
+    hidipy
+    ~~~~~~~~
+    hidipy application package
+"""

@@ -1,0 +1,9 @@
+flask
+flask-sqlalchemy
+flask-bootstrap
+flask-wtf
+flask-script
+flask-security
+requests
+rq
+rq-dashboard
